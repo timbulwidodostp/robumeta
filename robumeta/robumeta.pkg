@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'robumeta': Robust variance estimation in meta-regression with dependent effect size estimates Use robumeta With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f robumeta.ado
+f robumeta.sthlp
