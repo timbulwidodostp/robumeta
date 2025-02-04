@@ -1,6 +1,8 @@
 # robumeta
 Robust variance estimation in meta-regression with dependent effect size estimates Use robumeta With STATA 18
 
+https://www.youtube.com/watch?v=DB95kwYkWY8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
